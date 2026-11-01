@@ -6,4 +6,4 @@ This game is a competitive multiplayer game in which a randomly selected phase o
 The game checks if one of each necessary component is in the cell and rewards points based on how many items you correctly placed in the cell. 
 If something is missing then it will show you on the review slide bar on the left. 
 
-I wrote all of the scripts in C#. 
+I wrote all of the scripts in C#: https://github.com/Onyx310/Mitosis-Game-Scripts
